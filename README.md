@@ -4,7 +4,7 @@
 
 # Hola mi nombre es Ausias 👋
 
-### Soy desarrollador Full Stack y los lenguajes, frameworks, SDks, BBDD, etc que más utilizo o que estoy aprendiendo son estos:
+### Soy desarrollador Full Stack 💻 y los lenguajes, frameworks, SDks, BBDD, etc que más utilizo o que estoy aprendiendo son estos:
 
 - Flutter
 - NodeJS
